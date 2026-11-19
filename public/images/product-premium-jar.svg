@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" fill="none">
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientTransform="translate(450 430) rotate(90) scale(520)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#221a14"/>
+      <stop offset="1" stop-color="#12100c"/>
+    </radialGradient>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientTransform="translate(450 470) rotate(90) scale(310)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#e0a13a" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#e0a13a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="jar" x1="350" y1="360" x2="550" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8a6220" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#4a3520" stop-opacity="0.7"/>
+    </linearGradient>
+    <linearGradient id="lid" x1="360" y1="300" x2="540" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5a4228"/>
+      <stop offset="1" stop-color="#2a1e12"/>
+    </linearGradient>
+    <linearGradient id="contents" x1="370" y1="430" x2="530" y2="680" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6b4a12"/>
+      <stop offset="0.5" stop-color="#4a3520"/>
+      <stop offset="1" stop-color="#2a1e12"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="900" fill="url(#bg)"/>
+  <circle cx="450" cy="470" r="310" fill="url(#halo)"/>
+  <ellipse cx="450" cy="760" rx="220" ry="36" fill="#0c0a08" fill-opacity="0.75"/>
+  <path d="M370 360 C370 345 385 338 450 338 C515 338 530 345 530 360 L545 660 C548 715 515 740 450 740 C385 740 352 715 355 660 Z" fill="url(#jar)" stroke="#f2c879" stroke-width="5" stroke-opacity="0.45"/>
+  <path d="M378 430 L522 430 L535 650 C537 700 510 725 450 725 C390 725 363 700 365 650 Z" fill="url(#contents)"/>
+  <path d="M365 600 C400 640 500 640 535 600 L535 650 C537 700 510 725 450 725 C390 725 363 700 365 650 Z" fill="#1a1410" opacity="0.4"/>
+  <path d="M360 360 L540 360 L535 400 L365 400 Z" fill="url(#lid)"/>
+  <path d="M360 360 L540 360 L538 378 L362 378 Z" fill="#6b4a12" opacity="0.55"/>
+  <rect x="425" y="338" width="50" height="22" fill="#f2c879" opacity="0.9"/>
+  <rect x="440" y="360" width="20" height="360" fill="#e0a13a" opacity="0.25"/>
+  <g fill="#f2c879" fill-opacity="0.75">
+    <circle cx="420" cy="520" r="7"/>
+    <circle cx="475" cy="560" r="6"/>
+    <circle cx="440" cy="620" r="6"/>
+    <circle cx="500" cy="490" r="5"/>
+    <circle cx="400" cy="470" r="5"/>
+    <circle cx="465" cy="660" r="5"/>
+  </g>
+  <path d="M450 400 C435 460 440 510 450 550 C460 510 465 460 450 400 Z" fill="#e0a13a" opacity="0.3"/>
+  <g fill="#e0a13a" fill-opacity="0.45">
+    <circle cx="250" cy="320" r="4"/>
+    <circle cx="650" cy="300" r="3"/>
+    <circle cx="230" cy="540" r="3"/>
+    <circle cx="680" cy="560" r="4"/>
+    <circle cx="450" cy="240" r="3"/>
+    <circle cx="340" cy="270" r="3"/>
+    <circle cx="580" cy="260" r="3"/>
+  </g>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" fill="none">
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientTransform="translate(450 420) rotate(90) scale(520)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2a2018"/>
+      <stop offset="1" stop-color="#14100c"/>
+    </radialGradient>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientTransform="translate(450 480) rotate(90) scale(300)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#e0a13a" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#e0a13a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gurBlock" x1="300" y1="380" x2="600" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6b4a12"/>
+      <stop offset="0.5" stop-color="#4a3520"/>
+      <stop offset="1" stop-color="#2a1e12"/>
+    </linearGradient>
+    <linearGradient id="gurTop" x1="320" y1="340" x2="580" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8a6220"/>
+      <stop offset="1" stop-color="#5a4228"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="900" fill="url(#bg)"/>
+  <circle cx="450" cy="480" r="300" fill="url(#halo)"/>
+  <ellipse cx="450" cy="700" rx="260" ry="42" fill="#0c0a08" fill-opacity="0.75"/>
+  <path d="M180 640 C280 610 400 655 520 630 C640 605 740 650 820 630 L840 720 L160 720 Z" fill="#1c1410"/>
+  <path d="M200 660 C320 640 430 675 560 655 C680 637 760 670 830 655 L845 720 L185 720 Z" fill="#241a12"/>
+  <g>
+    <path d="M300 420 L560 380 L620 540 L340 590 Z" fill="url(#gurBlock)"/>
+    <path d="M300 420 L560 380 L580 430 L320 475 Z" fill="url(#gurTop)"/>
+    <path d="M560 380 L620 540 L595 545 L540 395 Z" fill="#1c1410"/>
+    <path d="M340 470 L580 430 L600 500 L360 545 Z" fill="#3a2c1e" opacity="0.5"/>
+    <path d="M380 445 L520 425 L530 455 L390 478 Z" fill="#5a4228" opacity="0.4"/>
+  </g>
+  <g>
+    <path d="M480 300 L640 275 L680 400 L510 435 Z" fill="#4a3520"/>
+    <path d="M480 300 L640 275 L650 315 L490 340 Z" fill="#6b4a12"/>
+    <path d="M640 275 L680 400 L665 403 L625 285 Z" fill="#2a1e12"/>
+  </g>
+  <g>
+    <path d="M240 500 L360 475 L395 585 L265 620 Z" fill="#5a4228"/>
+    <path d="M240 500 L360 475 L368 515 L248 540 Z" fill="#8a6220"/>
+    <path d="M360 475 L395 585 L380 588 L348 485 Z" fill="#2a1e12"/>
+  </g>
+  <path d="M300 420 L340 590" stroke="#8a6220" stroke-width="3" opacity="0.35"/>
+  <path d="M560 380 L620 540" stroke="#0c0a08" stroke-width="4" opacity="0.5"/>
+  <g fill="#f2c879" fill-opacity="0.7">
+    <circle cx="420" cy="455" r="5"/>
+    <circle cx="470" cy="490" r="4"/>
+    <circle cx="510" cy="460" r="4"/>
+    <circle cx="445" cy="530" r="4"/>
+    <circle cx="550" cy="330" r="4"/>
+    <circle cx="590" cy="360" r="3"/>
+  </g>
+  <g fill="#e0a13a" fill-opacity="0.45">
+    <circle cx="250" cy="320" r="4"/>
+    <circle cx="650" cy="300" r="3"/>
+    <circle cx="220" cy="520" r="3"/>
+    <circle cx="680" cy="540" r="4"/>
+    <circle cx="450" cy="220" r="3"/>
+    <circle cx="340" cy="250" r="3"/>
+    <circle cx="580" cy="230" r="3"/>
+  </g>
+</svg>

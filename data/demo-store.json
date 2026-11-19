@@ -1,0 +1,326 @@
+{
+  "siteSettings": {
+    "brandName": "রসপল্লী",
+    "brandDescriptor": "কেজুর গুর ও রসের ঠিকানা",
+    "tagline": "শীতের মিষ্টি, প্রাকৃতিক রস",
+    "supportPhone": "",
+    "whatsapp": "8801700000000",
+    "supportEmail": "",
+    "address": "বাংলাদেশ",
+    "deliveryCharge": 80,
+    "deliveryChargeDhaka": 60,
+    "deliveryChargeOutsideDhaka": 130,
+    "freeDeliveryThreshold": 3000,
+    "socialLinks": {},
+    "seoTitle": "রসপল্লী — কেজুর গুর ও রসের নিজস্ব ঠিকানা",
+    "seoDescription": "রসপল্লী-র হাতে তৈরি খাঁটি কেজুর গুর, তাজা রস ও গুরের মিষ্টিতে খুঁজে নিন শীতের সবচেয়ে আসল স্বাদ।"
+  },
+  "announcement": "",
+  "hero": {
+    "eyebrow": "শীতের মাঠ থেকে আপনার ঘরে",
+    "title": "কেজুর গুর, যা\nশীতে মনে থেকে যায়",
+    "subtitle": "প্রতিটি কড়ায় আগুনের তাপ, প্রতিটি পাতায় কৃষকের পরিশ্রম। রসপল্লী-র নিজস্ব হাতে তৈরি কেজুর গুর ও রসে আবিষ্কার করুন শীতের সবচেয়ে আসল মিষ্টি।",
+    "image": "/images/hero-date-palm.jpg",
+    "primaryLabel": "সকল পণ্য দেখুন",
+    "primaryHref": "/products",
+    "secondaryLabel": "আমাদের গল্প",
+    "secondaryHref": "/about"
+  },
+  "categories": [
+    {
+      "slug": "khejur-gur",
+      "name": "কেজুর গুর",
+      "eyebrow": "শীতের মিষ্টি",
+      "description": "আগুনে ধীরে পাকানো খাঁটি কেজুর গুর — প্রাকৃতিক মিষ্টি, কোনো রাসায়নিক উপাদান ছাড়া।",
+      "image": "/images/collection-gur-photo.jpg",
+      "isActive": true,
+      "sortOrder": 0
+    },
+    {
+      "slug": "khejur-rosh",
+      "name": "কেজুর রস",
+      "eyebrow": "তাজা ও সতেজ",
+      "description": "ভোরের কাঁদি থেকে সংগ্রহ করা প্রাকৃতিক রস — ঠান্ডা, মিষ্টি, পুষ্টিতে ভরপুর।",
+      "image": "/images/product-rosh-liquid.jpg",
+      "isActive": true,
+      "sortOrder": 1
+    },
+    {
+      "slug": "gur-misti",
+      "name": "গুরের মিষ্টি",
+      "eyebrow": "হাতে তৈরি",
+      "description": "গুরের পিঠে, নারকেলের লড্ডু আর মুড়কি — শীতের ঘরে ঘরে প্রিয় স্বাদ।",
+      "image": "/images/product-khejur-mitha.jpg",
+      "isActive": true,
+      "sortOrder": 2
+    },
+    {
+      "slug": "premium",
+      "name": "প্রিমিয়াম সংগ্রহ",
+      "eyebrow": "বিশেষ নির্বাচনে",
+      "description": "সীমিত পরিমাণে তৈরি, বছরজোড়া সংরক্ষিত গুর ও বিশেষ রসের অনন্য সংগ্রহ।",
+      "image": "/images/story-gur-process.jpg",
+      "isActive": true,
+      "sortOrder": 3
+    }
+  ],
+  "products": [
+    {
+      "id": "demo-gur-01",
+      "slug": "deshi-paka-gur",
+      "name": "দেশি পাকা গুর",
+      "tagline": "কাঁচা রস · আগুনে ধীরে পাকানো",
+      "description": "কেজুর তাজা রসকে খোলা কড়ায় ধীরে ধীরে সেঁটে তৈরি দেশি পাকা গুর। প্রাকৃতিক মিষ্টি, হালকা টকটা আর মাটির ঘ্রাণ — শীতের সকালের চাঁহুমের সঙ্গে এক অপরিহার্য সঙ্গী। কোনো রাসায়নিক উপাদান ছাড়া, কেবল কেজুর রস আর আগুনের তাপে তৈরি।",
+      "shortDescription": "খোলা কড়ায় ধীরে পাকানো খাঁটি দেশি গুর — প্রাকৃতিক মিষ্টি, হালকা টকটা আর মাটির ঘ্রাণ।",
+      "price": 620,
+      "compareAtPrice": 720,
+      "gender": "কেজুর গুর",
+      "categorySlug": "khejur-gur",
+      "categoryName": "কেজুর গুর",
+      "brand": "রসপল্লী",
+      "images": ["/images/product-gur-block.jpg", "/images/product-gur-boiling.jpg"],
+      "sizes": [
+        { "label": "৫০০ গ্রাম", "price": 360, "stock": 20 },
+        { "label": "১ কেজি", "price": 620, "stock": 15 },
+        { "label": "২ কেজি", "price": 1180, "stock": 8 }
+      ],
+      "notes": {
+        "top": ["কাঁচা রসের সোঁদা", "হালকা টকটা"],
+        "middle": ["আগুনে পাকানো মিষ্টি"],
+        "base": ["মাটির ঘ্রাণ", "কাঠের ধোঁয়া"]
+      },
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "isActive": true,
+      "isDemo": true
+    },
+    {
+      "id": "demo-gur-02",
+      "slug": "narom-gurer-patali",
+      "name": "নরম গুরের পাড়া",
+      "tagline": "কোমল · মোলায়েম · শীতের প্রিয়",
+      "description": "এখনো নরম অবস্থায় সাঁতারদেওয়া গুরের পাড়া — মুখে মাখা মাত্রই ধীরে ধীরে গলে যায়। পিঠে, পায়েস আর খইর সাজাতে সবচেয়ে জনপ্রিয় এক স্বাদ। শীতের সন্ধ্যায় গরম চাঁহুমের সঙ্গে খেতে এর মিল নেই।",
+      "shortDescription": "নরম, মোলায়েম গুরের পাড়া — মুখে মাখামাত্রই গলে যায়; পিঠে-পায়েসের প্রিয় সঙ্গী।",
+      "price": 540,
+      "compareAtPrice": 620,
+      "gender": "কেজুর গুর",
+      "categorySlug": "khejur-gur",
+      "categoryName": "কেজুর গুর",
+      "brand": "রসপল্লী",
+      "images": ["/images/product-patali.jpg", "/images/product-misti-gur.jpg"],
+      "sizes": [
+        { "label": "৫০০ গ্রাম", "price": 320, "stock": 18 },
+        { "label": "১ কেজি", "price": 540, "stock": 12 },
+        { "label": "২ কেজি", "price": 1020, "stock": 6 }
+      ],
+      "notes": {
+        "top": ["কোমল মোলায়েম স্পর্শ"],
+        "middle": ["গাঢ় ক্যারামেল মিষ্টি"],
+        "base": ["দীর্ঘ মিষ্টির ধারাবাহিকতা"]
+      },
+      "isFeatured": true,
+      "isBestSeller": false,
+      "isNewArrival": true,
+      "isActive": true,
+      "isDemo": true
+    },
+    {
+      "id": "demo-rosh-03",
+      "slug": "bhorer-khejur-rosh",
+      "name": "ভোরের কেজুর রস",
+      "tagline": "তাজা · ঠান্ডা · পুষ্টিতে ভরপুর",
+      "description": "ভোরবেলা কাঁদি থেকে সরাসরি সংগ্রহ করা কেজুর রস — কোনো প্রসেসিং ছাড়া, কেবল ছাঁকনি দিয়ে পরিশোধিত। ঠান্ডা রেফ্রিজারেটরে রেখে পান করুন প্রাকৃতিক সতেজতা; গরম করেও পান করা যায় সন্ধ্যার চাঁহুম হিসেবে।",
+      "shortDescription": "ভোরের কাঁদি থেকে সরাসরি সংগ্রহ — ঠান্ডা-গরম দুইভাবেই পান করা যায় এই তাজা কেজুর রস।",
+      "price": 480,
+      "compareAtPrice": null,
+      "gender": "কেজুর রস",
+      "categorySlug": "khejur-rosh",
+      "categoryName": "কেজুর রস",
+      "brand": "রসপল্লী",
+      "images": ["/images/product-rosh-liquid.jpg", "/images/product-rosh-glass.jpg"],
+      "sizes": [
+        { "label": "৫০০ মি.লি.", "price": 290, "stock": 24 },
+        { "label": "১ লিটার", "price": 480, "stock": 15 },
+        { "label": "২ লিটার", "price": 900, "stock": 7 }
+      ],
+      "notes": {
+        "top": ["ভোরের তাজা রস"],
+        "middle": ["প্রাকৃতিক মিষ্টি"],
+        "base": ["খনিজের স্বাদ"]
+      },
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isNewArrival": true,
+      "isActive": true,
+      "isDemo": true
+    },
+    {
+      "id": "demo-premium-04",
+      "slug": "bochhorjora-premium-gur",
+      "name": "বছরজোড়া প্রিমিয়াম গুর",
+      "tagline": "সংরক্ষিত · গাঢ় রঙ · গভীর স্বাদ",
+      "description": "শীতশেষে ঘনকরে সেঁটে বছরজোড়া রাখা প্রিমিয়াম গুর — রঙ গাঢ়, স্বাদ গভীর, ঘ্রাণ অনন্য। উপহার হিসেবে বা বিশেষ দিনে সাজানো খাবারে সবার চেয়ে এগিয়ে থাকে। সীমিত পরিমাণে তৈরি হওয়ায় প্রতি মৌসুমে কয়েকটি প্যাকেটই পাওয়া যায়।",
+      "shortDescription": "ঘনকরে সেঁটে বছরজোড়া রাখা গাঢ় গুর — উপহার ও বিশেষ দিনের জন্য সীমিত সংগ্রহ।",
+      "price": 840,
+      "compareAtPrice": null,
+      "gender": "কেজুর গুর",
+      "categorySlug": "premium",
+      "categoryName": "প্রিমিয়াম সংগ্রহ",
+      "brand": "রসপল্লী",
+      "images": ["/images/product-premium-gur.jpg", "/images/story-gur-process.jpg"],
+      "sizes": [
+        { "label": "৫০০ গ্রাম", "price": 490, "stock": 7 },
+        { "label": "১ কেজি", "price": 840, "stock": 6 },
+        { "label": "২ কেজি", "price": 1580, "stock": 3 }
+      ],
+      "notes": {
+        "top": ["গাঢ় ক্যারামেলের ঘ্রাণ"],
+        "middle": ["দীর্ঘক্ষণ পাকানো মিষ্টি"],
+        "base": ["ধোঁয়াভেজা মাটির স্বাদ"]
+      },
+      "isFeatured": true,
+      "isBestSeller": false,
+      "isNewArrival": true,
+      "isActive": true,
+      "isDemo": true
+    },
+    {
+      "id": "demo-gur-05",
+      "slug": "nolen-liquid-gur",
+      "name": "নোলেন তরল গুর",
+      "tagline": "তরল সোনা · শীতের প্রথম রস",
+      "description": "কাঁদি থেকে নামা তাজা রস কয়েক ঘণ্টা ধীম আগুনে ঘনীভূত করে তৈরি নোলেন তরল গুর — বাংলার শীতের তরল সোনা। লুচি, পায়েস বা সন্দেশে এক চামচ মাত্রেই বদলে দেয় পুরো খাবারের স্বাদ। ফ্রিজে রেখে মাসের পর মাস উপভোগ করুন।",
+      "shortDescription": "ধীম আগুনে ঘনীভূত করা নোলেন তরল গুর — লুচি-পায়েসে শীতের তরল সোনা।",
+      "price": 560,
+      "compareAtPrice": 640,
+      "gender": "কেজুর গুর",
+      "categorySlug": "khejur-gur",
+      "categoryName": "কেজুর গুর",
+      "brand": "রসপল্লী",
+      "images": ["/images/product-rosh-glass.jpg", "/images/product-rosh-liquid.jpg"],
+      "sizes": [
+        { "label": "২৫০ গ্রাম", "price": 320, "stock": 22 },
+        { "label": "৫০০ গ্রাম", "price": 560, "stock": 14 },
+        { "label": "১ কেজি", "price": 1080, "stock": 6 }
+      ],
+      "notes": {
+        "top": ["সোনালি ক্যারামেল"],
+        "middle": ["ধীম আগুনের ঘন মিষ্টি"],
+        "base": ["হালকা ধোঁয়ার স্পর্শ"]
+      },
+      "isFeatured": true,
+      "isBestSeller": false,
+      "isNewArrival": true,
+      "isActive": true,
+      "isDemo": true
+    },
+    {
+      "id": "demo-misti-06",
+      "slug": "gurer-narkel-laddu",
+      "name": "গুরের নারকেল লড্ডু",
+      "tagline": "হাতে গুঁড়া · তাজা নারকেল",
+      "description": "কোমল নারকেল কোরা আর কেজুর গুর মিশিয়ে হাতে গুঁড়ানো লড্ডু — শীতের সন্ধ্যার চায়ের সঙ্গী। কোনো প্রিজার্ভেটিভ ছাড়া, প্রতিটি লড্ডু তৈরি হয় ছোট ব্যাচে যাতে থাকে তাজা ঘ্রাণ আর নরম টেক্সচার।",
+      "shortDescription": "কোমল নারকেল ও কেজুর গুরে হাতে গুঁড়ানো তাজা লড্ডু — চায়ের সেরা সঙ্গী।",
+      "price": 380,
+      "compareAtPrice": 450,
+      "gender": "গুরের মিষ্টি",
+      "categorySlug": "gur-misti",
+      "categoryName": "গুরের মিষ্টি",
+      "brand": "রসপল্লী",
+      "images": ["/images/product-khejur-mitha.jpg", "/images/product-misti-gur.jpg"],
+      "sizes": [
+        { "label": "৬ পিস", "price": 380, "stock": 25 },
+        { "label": "১২ পিস", "price": 720, "stock": 12 },
+        { "label": "২৪ পিস", "price": 1380, "stock": 6 }
+      ],
+      "notes": {
+        "top": ["তাজা নারকেলের ঘ্রাণ"],
+        "middle": ["কেজুর গুরের মিষ্টি"],
+        "base": ["কোমল, মোলায়েম স্পর্শ"]
+      },
+      "isFeatured": false,
+      "isBestSeller": true,
+      "isNewArrival": true,
+      "isActive": true,
+      "isDemo": true
+    },
+    {
+      "id": "demo-misti-07",
+      "slug": "gurer-til-naru",
+      "name": "গুরের তিল নাড়ু",
+      "tagline": "ভাজা তিল · ঘন গুরের বাঁধা",
+      "description": "সোনালি ভাজা তিল আর কেজুর গুরের ঘন মিশ্রণ দিয়ে হাতে তৈরি তিল নাড়ু — মুখে মাখলেই তিলের ঝরঝরে আর গুরের মিষ্টি একসাথে। পঞ্চমী-শীতশেষের পাড়ের মিষ্টি, এখন রসপল্লীতে সারাবছর।",
+      "shortDescription": "ভাজা তিল ও কেজুর গুরে হাতে বাঁধা ঝরঝরে তিল নাড়ু — পাড়ের প্রিয় মিষ্টি।",
+      "price": 320,
+      "compareAtPrice": null,
+      "gender": "গুরের মিষ্টি",
+      "categorySlug": "gur-misti",
+      "categoryName": "গুরের মিষ্টি",
+      "brand": "রসপল্লী",
+      "images": ["/images/product-misti-gur.jpg", "/images/product-khejur-mitha.jpg"],
+      "sizes": [
+        { "label": "২৫০ গ্রাম", "price": 320, "stock": 20 },
+        { "label": "৫০০ গ্রাম", "price": 600, "stock": 10 }
+      ],
+      "notes": {
+        "top": ["ভাজা তিলের ঘ্রাণ"],
+        "middle": ["কেজুর গুরের মিষ্টি"],
+        "base": ["ঝরঝরে, মুখে মাখা স্বাদ"]
+      },
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isNewArrival": true,
+      "isActive": true,
+      "isDemo": true
+    },
+    {
+      "id": "demo-rosh-08",
+      "slug": "nolen-gurer-payesh-club",
+      "name": "নোলেন গুরের পায়েস কিট",
+      "tagline": "ঘরে বসানো · সম্পূর্ণ মিশ্রণ",
+      "description": "চাল, দুধ আর নির্বাচিত নোলেন গুর — এক প্যাকেটে সম্পূর্ণ পায়েস রেসিপির উপকরণ। ঘরে বসেই বানান রেস্টুরেন্ট-স্তরের কেজুর গুরের পায়েস। শীতের অতিথি সত্কারে সবচেয়ে সহজ এক সমাধান।",
+      "shortDescription": "চাল-দুধ-নোলেন গুরের সম্পূর্ণ কিট — ঘরে বসে রেস্টুরেন্ট-স্তরের পায়েস।",
+      "price": 420,
+      "compareAtPrice": 490,
+      "gender": "কেজুর রস",
+      "categorySlug": "khejur-rosh",
+      "categoryName": "কেজুর রস",
+      "brand": "রসপল্লী",
+      "images": ["/images/story-gur-process.jpg", "/images/product-rosh-glass.jpg"],
+      "sizes": [
+        { "label": "৪ জনের কিট", "price": 420, "stock": 18 },
+        { "label": "৮ জনের কিট", "price": 780, "stock": 9 }
+      ],
+      "notes": {
+        "top": ["দুধের নরমতা"],
+        "middle": ["নোলেন গুরের ঘন মিষ্টি"],
+        "base": ["সোমালো, উষ্ণ ঘ্রাণ"]
+      },
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isNewArrival": true,
+      "isActive": true,
+      "isDemo": true
+    }
+  ],
+  "brandStory": {
+    "eyebrow": "আমাদের দর্শন",
+    "title": "আগুনের তাপে\nমিষ্টির জন্ম",
+    "body": "রসপল্লী-র প্রতিটি পণ্য তৈরি হয় কেজুর তাজা রস, ধৈর্যশীল আগুন আর কৃষকের বহুবছরের অভিজ্ঞতা থেকে। শীতের ভোরে কাঁদি ধরা থেকে শুরু করে আপনার ঘরে পৌঁছানো পর্যন্ত — প্রতিটি ধাপে আমরা রাখি প্রাকৃতিকতা, পরিষ্কার-পরিচ্ছন্নতা এবং স্বাদের প্রতি গভীর শ্রদ্ধা।",
+    "image": "/images/story-gur-process.jpg",
+    "linkLabel": "রসপল্লী-র গল্প জানুন",
+    "linkHref": "/about"
+  },
+  "promotion": {
+    "eyebrow": "উপহারে থাকুক শীতের মিষ্টি",
+    "title": "কিছু গুর,\nশুধু বিশেষ দিনের জন্য",
+    "subtitle": "নিজের জন্য কিংবা প্রিয়জনের জন্য — রসপল্লী-র নির্বাচিত গুর ও রসে দিনটিকে করে তুলুন আরও মিষ্টি ও স্মরণীয়।",
+    "image": "/images/product-premium-gur.jpg",
+    "ctaLabel": "সংগ্রহটি দেখুন",
+    "ctaHref": "/collections/premium"
+  },
+  "testimonials": [],
+  "socialGallery": [],
+  "reviews": []
+}
