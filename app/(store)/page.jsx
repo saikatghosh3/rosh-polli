@@ -4,6 +4,7 @@ import { BadgeCheck, Leaf, ShieldCheck, Star, Truck } from "lucide-react";
 import CollectionGrid from "@/components/home/collection-grid";
 import HeroSection from "@/components/home/hero-section";
 import MotionReveal from "@/components/home/motion-reveal";
+import NewsTicker from "@/components/home/news-ticker";
 import ParallaxPair from "@/components/home/parallax-pair";
 import ParallaxShift from "@/components/home/parallax-shift";
 import ProductRail from "@/components/products/product-rail";
@@ -17,6 +18,8 @@ export default async function HomePage() {
   return (
     <>
       <HeroSection hero={data.hero} product={data.featuredProducts?.[0]} />
+
+      <NewsTicker />
 
       <section className="section site-container" aria-labelledby="collections-title">
         <div className="section-heading">
